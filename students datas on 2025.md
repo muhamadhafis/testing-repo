@@ -5,9 +5,9 @@
    TTL    : Ambon, 19 Agustus 2003
    Alamat : Jln. Loa Bakung RT.21 No.04
  
-2. Nama   : Erna Mulyani
+2. Nama   : Udin Kuning
    NIM    : H2020000002
-   JK     : Perempuan
+   JK     : Laki - Laki
    Agama  : Islam
    TTL    : Samarinda, 02 Juni 2003
    Alamat : Jln. Bantuas RT.01 No.18
@@ -23,8 +23,8 @@
    NIM    : H2020000004
    JK     : Laki - Laki
    Agama  : Islam
-   TTL    : Pinrang, 10 Maret 2003
-   Alamat : Jln. Mangkupalas RT.07 No.12
+   TTL    : Pinrang, 10 Maret 200
+   Alamat : Jln. Mangkupalas RT.07 No.10
  
 5. Nama   : Rifqi Permana
    NIM    : H2020000005
